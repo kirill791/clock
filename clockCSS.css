@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body{
+    background: rgb(20, 20, 20);
+}
+
+#clock{
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 200px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 50px #0084ff;
+    border: double rgb(0, 162, 255);
+    box-shadow: 0 0 50px rgb(0, 162, 255);
+}
+
+#clockH1{
+    position: absolute;
+    top: 1%;
+    left: 40%;
+    font-size: 100px;
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+}
+
+#by{
+    position: fixed;
+    top: 1%;
+    left: 38%;
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+}
+
+#MusicText{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+}
+
+#BtnSite{
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(46, 54, 68);
+    border-radius: 8px;
+    color: rgb(0, 162, 255);
+}
+
+#BtnSite:hover{
+    border-color:rgb(0, 162, 255);
+}
+
+#Fakts{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 60px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff; 
+    margin-top: 10cm;
+    margin-left: 10cm;
+}
+
+#Fakt1{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff; 
+    margin-top: 1cm;
+    margin-left: 0.5cm;
+}
+
+#Fakt2{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff; 
+    margin-top: 1cm;
+    margin-left: 0.5cm;
+}
+
+#Fakt3{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff; 
+    margin-top: 1cm;
+    margin-left: 0.5cm;
+}
+
+#Fakt4{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff; 
+    margin-top: 1cm;
+    margin-left: 0.5cm;
+}
+
+#Fakt5{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff; 
+    margin-top: 1cm;
+    margin-left: 0.5cm;
+}
+
+#Fakt6{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff; 
+    margin-top: 1cm;
+    margin-left: 0.5cm;
+}
